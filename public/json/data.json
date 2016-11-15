@@ -1,0 +1,85 @@
+[
+   {
+
+   },
+   {
+      "title":"Taskloud",
+      "background":"../images/taskloud/bg.jpg",
+      "thumbnail":"../images/taskloud/tn.jpg",
+      "time":"2016 Spring",
+      "responsibility": "Individual project",
+      "type": "Bachelor Degree Thesis",
+      "skills": "Adobe Creative Cloud, Objective-C, MySQL, Node.js",
+      "final": "A schedule planner APP based on iOS, related server-side program and project documentation",
+      "concept":["Since working and Studying has been playing the most important role in our lives, we have to deal with a great deal of various affairs everyday. Scheduling time more appropriately is very essential to us. Therefore, I developed this easy-to-use APP to manage our time and schdules which can meet our daily needs. But the existing APPs are usually too complicated for users to use and they don't really maximum the advantage of smart phone.",
+         "In this project, my intention is to develop an application which has a featur that allows users to manage others' schedule like adding new appointments. And I also used GPS in the application to let users get notification according to their position"],
+      "gallery":["../images/taskloud/1.jpg","../images/taskloud/2.jpg","../images/taskloud/3.jpg","../images/taskloud/4.jpg"],
+      "video":"https://www.youtube.com/embed/G29Oepm6Z5M?rel=0&amp;showinfo=0"
+   },
+   {
+      "title":"Light Up",
+      "background":"./images/lightup/bg.jpg",
+      "thumbnail":"../images/lightup/tn.jpg",
+      "time":"2015 Summer",
+      "responsibility": "Team leader / UI&UX designer / Programmer",
+      "type": "Shanghai College Student Innovation Program - Excellent Project Award Winner",
+      "skills": "Adobe Creative Cloud, Objective-C, MySQL, PHP, Baidu Maps API",
+      "final": "A social travel APP based on iOS, related server-side program and project documentation.",
+      "concept":["Sometimes we think we know a lot about the cities we live in. But actually, there are still some places that we've never been to in the cities. They can be really surprising, different and fascinating. During the time I live and study in Shanghai, I went to a lot of places and every time I went to a new place, I felt that I knew the city better. I didn't realize that Shanghai has so many different cultures. Some places are very flourishing, some are old, some are artistic... But they are all special and they make the city Shanghai. So I want to encourage people to go out, to know the city's culture and to seek the beauty of the city."
+      ,"So the way I wanted to push people was to make an App. Since I noticed that people are more and more relying on mobile applications and they like to share and \"compete\" with their friends. Also, a mobile application can better track where the user has or has not been to. So we built a server and an application to realize the idea."
+      ,"The first thing we did was summing up the requirements of users and functions the app should have. using this app, users can explore the city by lighting up the map, which is just like how exploration is like in computer games. And users can know where they have been to and how much percentage of the city they have explored. Also, users can share their experience, feelings and comments on certain places with other people so that they can read the comments and decide where they want to go. Users need to light up the position by taking a picture, and the system knows where they are according to their GPS information."
+      ,"We had a really hard time developing the algorithm of dividing the city map. Because there are some places that are more touristy, and some more boring and unworthy of traveling to. The first idea was to dividing the map in irregular shapes. But it was impossible to store the shapes and to determine which area the users were in. Then, we decided to use circles because we could just store the position of the center and the radius to determine an area, which was a really good solution. And the reason why we just made the map of Shanghai was that it took a lot of time for us to draw on the map and to record the information of each area manually."
+      ,"The project had some flaws. We could spend more time thinking about how to divide the map automatically because the dividing was too subject."],
+      "gallery":["../images/lightup/1.jpg","../images/lightup/2.jpg","../images/lightup/3.jpg"],
+      "video":"https://www.youtube.com/embed/YRxUPcOOzkg?rel=0&amp;showinfo=0"
+   },
+   {
+      "title":"Compile Youth",
+      "background":"./images/compileyouth/bg.jpg",
+      "thumbnail":"../images/compileyouth/tn.jpg",
+      "time":"2016 Summer",
+      "responsibility": "Designer",
+      "type": "School yearbook",
+      "skills": "Adobe Creative Cloud",
+      "final": "Printed book",
+      "concept":["This is the yearbook for students graduated from School of Software Engineering, Tongji University in 2016 and faculties. Generally, the design was pretty formal."
+      ,""],
+      "gallery":["../images/compileyouth/1.jpg","../images/compileyouth/2.jpg","../images/compileyouth/3.jpg","../images/compileyouth/4.jpg"]
+   },
+   {
+      "title":"Green Funeral",
+      "background":"./images/greenfuneral/bg.jpg",
+      "thumbnail":"../images/greenfuneral/tn.jpg",
+      "time":"2016 Fall",
+      "responsibility": "Individual project",
+      "type": "Physical Computing Midterm Project",
+      "skills": "Arduino, Crafting",
+      "final": "A phydical object",
+      "concept":["This is a physical object project based on Arduino. The main idea is that since the environmental damage is getting worse, there are less and less green plants existing because of global warming and damage to forests. And may be some day in the near future, no green plants can survive. But it seems that only a few people worry about these issues. For some people, they don't care about the environment. They don't need green plants because they can just sit at home or at work, looking at this vivid moving \"plant\". So I made this project as sarcasm to arouse people's attention to the nature and to let them know what will happen if we keep doing damage to the nature."
+         ,"In this project, I used 3 hall effect sensors, 10 LEDs in different colors, a continuous rotating servo and a ultrasonic distance sensor. There are in total 4 modes of this object. If 3 magnets are all face to the body, its the sleep mode which means the it's turned off. Pease mode is that lights glow gently and give out a peaceful feeling. Party mode is that the lights glow and blink fast, the servo rotates really fast which makes the body ratates. And Pet mode is that lights blink in random brightness. And if there's something blocking the ultrasonic sensor, the body will \"turn away\" like a pet to interact with its owner"
+         ],
+      "gallery":["../images/greenfuneral/1.jpg","../images/greenfuneral/2.jpg","../images/greenfuneral/3.jpg","../images/greenfuneral/4.jpg","../images/greenfuneral/5.jpg","../images/greenfuneral/6.jpg","../images/greenfuneral/7.jpg"],
+      "video":"https://www.youtube.com/embed/fGDKFc9uSjQ?rel=0&amp;showinfo=0",
+      "github": "https://github.com/LucienHuang/Green-Funeral/blob/master/midTerm.ino"
+   },
+   {
+      "title":"Inside Out",
+      "background":"./images/insideout/bg.jpg",
+      "thumbnail":"../images/insideout/tn.jpg"
+   },
+   {
+      "title":"Cannon Man",
+      "background":"./images/cannonman/bg.jpg",
+      "thumbnail":"../images/cannonman/tn.jpg"
+   },
+   {
+      "title":"EQueue",
+      "background":"./images/equeue/bg.jpg",
+      "thumbnail":"../images/equeue/tn.jpg"
+   },
+   {
+      "title":"Light Eater",
+      "background":"./images/lighteater/bg.jpg",
+      "thumbnail":"../images/lighteater/tn.jpg"
+   }
+]
